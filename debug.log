@@ -1,0 +1,17 @@
+[0713/182058.539:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0713/182058.547:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0713/182058.563:ERROR:exception_snapshot_win.cc(98)] thread ID 264 not found in process
+[0713/182058.563:ERROR:exception_snapshot_win.cc(98)] thread ID 5272 not found in process
+[0716/011327.720:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0716/011327.732:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0716/011327.732:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0716/011327.721:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0716/011327.797:ERROR:exception_snapshot_win.cc(98)] thread ID 11148 not found in process
+[0716/011327.797:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0716/011327.797:ERROR:exception_snapshot_win.cc(98)] thread ID 3296 not found in process
+[0716/011406.500:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0716/011406.501:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0716/011406.501:ERROR:exception_snapshot_win.cc(98)] thread ID 6076 not found in process
+[0716/011406.511:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0716/011406.511:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0716/011406.511:ERROR:exception_snapshot_win.cc(98)] thread ID 1868 not found in process
